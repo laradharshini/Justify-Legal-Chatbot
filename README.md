@@ -6,31 +6,31 @@ It supports PDF ingestion, conversational Q&A, translation, voice input, source 
 ## Key Features
 
 * **PDF-based RAG System**
-  Upload one or more PDFs and ask questions directly from the content.
+  → Upload one or more PDFs and ask questions directly from the content.
 
 * **Conversational Q&A**
-  Uses a retrieval-augmented chain to deliver accurate, context-aware legal answers.
+  → Uses a retrieval-augmented chain to deliver accurate, context-aware legal answers.
 
 * **Voice Input (Speech-to-Text)**
-  Speak your question using the built-in mic recorder.
+  → Speak your question using the built-in mic recorder.
 
 * **Translation Support**
-  Translate AI responses into multiple languages (Spanish, French, German, Hindi).
+  → Translate AI responses into multiple languages (Spanish, French, German, Hindi).
 
 * **Read-Aloud (Text-to-Speech)**
-  Listen to answers using integrated speech synthesis.
+  → Listen to answers using integrated speech synthesis.
 
 * **Legal Glossary Extraction**
-  Auto-detects legal terms (Acts, Authorities, Dates, Sections, Concepts).
+  → Auto-detects legal terms (Acts, Authorities, Dates, Sections, Concepts).
 
 * **Contextual Suggested Questions**
-  Dynamically generates useful questions based on uploaded document content.
+  → Dynamically generates useful questions based on uploaded document content.
 
 * **Source Transparency**
-  Shows top source pages used to generate each answer.
+  → Shows top source pages used to generate each answer.
 
 * **Chat History + Download**
-  Full conversation preserved across turns with export support.
+  → Full conversation preserved across turns with export support.
 
 # Tech Stack
 
@@ -102,7 +102,7 @@ streamlit run app.py
 ```
 
 App opens at:
-👉 **[http://localhost:8501](http://localhost:8501)**
+**[http://localhost:8501](http://localhost:8501)**
 
 
 ## How It Works (RAG Pipeline)
