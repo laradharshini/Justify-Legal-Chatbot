@@ -32,7 +32,7 @@ It supports PDF ingestion, conversational Q&A, translation, voice input, source 
 * **Chat History + Download**
   → Full conversation preserved across turns with export support.
 
-# Tech Stack
+## Tech Stack
 
 * **Frontend/UI:** Streamlit
 * **NLP & RAG:** LangChain, FAISS, HuggingFace Transformers
